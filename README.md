@@ -1,1 +1,1 @@
-this is exercise done by an alx  student  on scripting and introduction to C-programming
+this a prorammable code that has to do with function and nested loops exercise
