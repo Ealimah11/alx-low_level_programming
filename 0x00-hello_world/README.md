@@ -1,1 +1,1 @@
-a c script that assemble code 
+ to compile and creates executable output file
