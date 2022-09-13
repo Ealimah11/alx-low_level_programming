@@ -1,1 +1,1 @@
- to compile and creates executable output file
+ a program that use puts to display on standard output
