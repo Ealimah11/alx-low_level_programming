@@ -1,1 +1,1 @@
-this file explain the ways to script in c low levels language
+how to preprocess a c language in c lang
