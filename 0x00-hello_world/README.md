@@ -1,1 +1,1 @@
- a program that use puts to display on standard output
+ a c language to display with printf function
