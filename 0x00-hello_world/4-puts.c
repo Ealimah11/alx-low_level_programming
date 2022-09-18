@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * a c programming that prints using puts and not printf
- *the value should return string if correct
- *else it will return 0
+ *main- serves as entry function for the program
+ *Return:by default return zeros without error else return non-zeros
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+char *s = "programming is like building a multilingual puzzle";
+	puts(s);
 		return (0);
 }
