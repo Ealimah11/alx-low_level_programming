@@ -1,1 +1,1 @@
-a file that prints putchar
+ code that display lower case alphabet

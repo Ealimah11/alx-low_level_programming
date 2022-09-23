@@ -1,11 +1,11 @@
 #include  "main.h"
 /**
  * main-prints_putchar, followed by a new line
- * Return: Always 0 (Success)
+ * Return: Always return 0 as Success
  */
- int main (void)
+ int main(void)
 {
-	putchar('');
+	putchar('_');
 	putchar('p');
 	putchar('u');
 	putchar('t');
